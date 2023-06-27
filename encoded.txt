@@ -1,13 +1,15 @@
-https://www.researchgate.net/publication/369034639_Market_Basket_Analysis_with_Statistically_Improved_Association_Rules_Considering_Product_Details
-https://www.clerk.io/blog/product-recommendations-statistics-2022	    
-https://www.insiderintelligence.com/content/the-impact-of-product-recommendations
-https://www.researchgate.net/publication/369825798_A_Recommendation_System_in_E-Commerce_with_Profit-Support_Association_Rule_Mining_P-FARM
-https://www.researchgate.net/publication/278968646_E-commerce_Recommendation_System_using_Association_Rule_Mining_and_Clustering
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bawar.net/data0/books/5c63140ab1587/pdf/Kenneth_C__Laudon,_Carol_Guercio_Traver_-_E-Commerce_2017_(2017,_Pearson).pdf
-    	      	    	     	  	      	   	 	   	       
-Research Articles:       	     	      			   	     
-https://ieeexplore.ieee.org.ezproxy.library.strathmore.edu/document/9989947
-https://www.cambridge.org.ezproxy.library.strathmore.edu/core/books/abs/data-mining-and-data-warehousing/association-mining/DCB6BE4F487E554BB47E44F4A4E3B75F
-https://engiscience.com/index.php/josse/article/view/josse2021126/pdf	      
-https://ojs.stmikpringsewu.ac.id/index.php/JurnalTam/article/view/1200/pdf
-       	     	  	     	  		
+What is Lorem Ipsum?		    	    	      	   	   
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+		      			  		       	  	    
+Why do we use it?	  	 	       	     	  	     	     
+It is a long established fact that a reader will be distracted by the readable content of a page when looking
+at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
+packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum'
+will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident,
+sometimes on purpose (injected humour and the like).      	 
